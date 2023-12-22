@@ -1,2 +1,2 @@
 # Parkinson-Disease
-Identification of parkinson's disease by voice and spiral drawings using machine learning 🤖
+Identification of <a href="https://github.com/hemant467/Parkinson-Disease">parkinson's disease</a> by voice 🗣️ and spiral drawings ✍️ using machine learning 🤖
